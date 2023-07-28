@@ -1,0 +1,112 @@
+[
+    {
+        "warehouse_id": "WH001",
+        "warehouse_name": "Distribution Warehouse 1",
+        "coordinate": 7,
+        "ocelot_in_stock": 2000,
+        "penguin_in_stock": 3000,
+        "hippo_in_stock": 2500,
+        "camel_in_stock": 2200,
+        "elephant_in_stock": 2800,
+        "kangaroo_in_stock": 3100
+    },
+    {
+        "warehouse_id": "WH002",
+        "warehouse_name": "Distribution Warehouse 2",
+        "coordinate": 17,
+        "ocelot_in_stock": 2100,
+        "penguin_in_stock": 3100,
+        "hippo_in_stock": 2600,
+        "camel_in_stock": 2300,
+        "elephant_in_stock": 2900,
+        "kangaroo_in_stock": 3200
+    },
+    {
+        "warehouse_id": "WH003",
+        "warehouse_name": "Distribution Warehouse 3",
+        "coordinate": 27,
+        "ocelot_in_stock": 2200,
+        "penguin_in_stock": 3200,
+        "hippo_in_stock": 2700,
+        "camel_in_stock": 2400,
+        "elephant_in_stock": 3000,
+        "kangaroo_in_stock": 3300
+    },
+    {
+        "warehouse_id": "WH004",
+        "warehouse_name": "Distribution Warehouse 4",
+        "coordinate": 37,
+        "ocelot_in_stock": 2300,
+        "penguin_in_stock": 3300,
+        "hippo_in_stock": 2800,
+        "camel_in_stock": 2500,
+        "elephant_in_stock": 3100,
+        "kangaroo_in_stock": 3400
+    },
+    {
+        "warehouse_id": "WH005",
+        "warehouse_name": "Distribution Warehouse 5",
+        "coordinate": 47,
+        "ocelot_in_stock": 2400,
+        "penguin_in_stock": 3400,
+        "hippo_in_stock": 2900,
+        "camel_in_stock": 2600,
+        "elephant_in_stock": 3200,
+        "kangaroo_in_stock": 3500
+    },
+    {
+        "warehouse_id": "WH006",
+        "warehouse_name": "Distribution Warehouse 6",
+        "coordinate": 57,
+        "ocelot_in_stock": 2500,
+        "penguin_in_stock": 3500,
+        "hippo_in_stock": 3000,
+        "camel_in_stock": 2700,
+        "elephant_in_stock": 3300,
+        "kangaroo_in_stock": 3600
+    },
+    {
+        "warehouse_id": "WH007",
+        "warehouse_name": "Distribution Warehouse 7",
+        "coordinate": 67,
+        "ocelot_in_stock": 2600,
+        "penguin_in_stock": 3600,
+        "hippo_in_stock": 3100,
+        "camel_in_stock": 2800,
+        "elephant_in_stock": 3400,
+        "kangaroo_in_stock": 3700
+    },
+    {
+        "warehouse_id": "WH008",
+        "warehouse_name": "Distribution Warehouse 8",
+        "coordinate": 77,
+        "ocelot_in_stock": 2700,
+        "penguin_in_stock": 3700,
+        "hippo_in_stock": 3200,
+        "camel_in_stock": 2900,
+        "elephant_in_stock": 3500,
+        "kangaroo_in_stock": 3800
+    },
+    {
+        "warehouse_id": "WH009",
+        "warehouse_name": "Distribution Warehouse 9",
+        "coordinate": 87,
+        "ocelot_in_stock": 2800,
+        "penguin_in_stock": 3800,
+        "hippo_in_stock": 3300,
+        "camel_in_stock": 3000,
+        "elephant_in_stock": 3600,
+        "kangaroo_in_stock": 3900
+    },
+    {
+        "warehouse_id": "WH010",
+        "warehouse_name": "Distribution Warehouse 10",
+        "coordinate": 97,
+        "ocelot_in_stock": 2900,
+        "penguin_in_stock": 3900,
+        "hippo_in_stock": 3400,
+        "camel_in_stock": 3100,
+        "elephant_in_stock": 3700,
+        "kangaroo_in_stock": 4000
+    }
+]

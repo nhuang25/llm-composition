@@ -1,0 +1,102 @@
+production_plants = [
+    {
+        "plant_id": "SA001",
+        "plant_name": "Stuffed Animal Plant 1",
+        "coordinate": 10
+    },
+    {
+        "plant_id": "SA002",
+        "plant_name": "Stuffed Animal Plant 2",
+        "coordinate": 15
+    },
+    {
+        "plant_id": "SA003",
+        "plant_name": "Stuffed Animal Plant 3",
+        "coordinate": 20
+    },
+    {
+        "plant_id": "SA004",
+        "plant_name": "Stuffed Animal Plant 4",
+        "coordinate": 25
+    },
+    {
+        "plant_id": "SA005",
+        "plant_name": "Stuffed Animal Plant 5",
+        "coordinate": 30
+    },
+    {
+        "plant_id": "SA006",
+        "plant_name": "Stuffed Animal Plant 6",
+        "coordinate": 35
+    },
+    {
+        "plant_id": "SA007",
+        "plant_name": "Stuffed Animal Plant 7",
+        "coordinate": 40
+    },
+    {
+        "plant_id": "SA008",
+        "plant_name": "Stuffed Animal Plant 8",
+        "coordinate": 45
+    },
+    {
+        "plant_id": "SA009",
+        "plant_name": "Stuffed Animal Plant 9",
+        "coordinate": 50
+    },
+    {
+        "plant_id": "SA010",
+        "plant_name": "Stuffed Animal Plant 10",
+        "coordinate": 55
+    },
+    {
+        "plant_id": "SA011",
+        "plant_name": "Stuffed Animal Plant 11",
+        "coordinate": 60
+    },
+    {
+        "plant_id": "SA012",
+        "plant_name": "Stuffed Animal Plant 12",
+        "coordinate": 65
+    },
+    {
+        "plant_id": "SA013",
+        "plant_name": "Stuffed Animal Plant 13",
+        "coordinate": 70
+    },
+    {
+        "plant_id": "SA014",
+        "plant_name": "Stuffed Animal Plant 14",
+        "coordinate": 75
+    },
+    {
+        "plant_id": "SA015",
+        "plant_name": "Stuffed Animal Plant 15",
+        "coordinate": 80
+        },
+    {
+        "plant_id": "SA016",
+        "plant_name": "Stuffed Animal Plant 16",
+        "coordinate": 85
+    },
+    {
+        "plant_id": "SA017",
+        "plant_name": "Stuffed Animal Plant 17",
+        "coordinate": 90
+    },
+    {
+        "plant_id": "SA018",
+        "plant_name": "Stuffed Animal Plant 18",
+        "coordinate": 95
+    },
+    {
+        "plant_id": "SA019",
+        "plant_name": "Stuffed Animal Plant 19",
+        "coordinate": 100
+    },
+    {
+        "plant_id": "SA020",
+        "plant_name": "Stuffed Animal Plant 20",
+        "coordinate": 5
+    }
+]

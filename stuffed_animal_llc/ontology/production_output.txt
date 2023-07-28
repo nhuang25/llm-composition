@@ -1,0 +1,182 @@
+[
+    {
+        "plant_id": "SA001",
+        "ocelot_to_produce": 100,
+        "penguin_to_produce": 80,
+        "hippo_to_produce": 120,
+        "camel_to_produce": 110,
+        "elephant_to_produce": 90,
+        "kangaroo_to_produce": 130
+    },
+    {
+        "plant_id": "SA002",
+        "ocelot_to_produce": 102,
+        "penguin_to_produce": 82,
+        "hippo_to_produce": 122,
+        "camel_to_produce": 112,
+        "elephant_to_produce": 92,
+        "kangaroo_to_produce": 132
+    },
+    {
+        "plant_id": "SA003",
+        "ocelot_to_produce": 104,
+        "penguin_to_produce": 84,
+        "hippo_to_produce": 124,
+        "camel_to_produce": 114,
+        "elephant_to_produce": 94,
+        "kangaroo_to_produce": 134
+    },
+    {
+        "plant_id": "SA004",
+        "ocelot_to_produce": 106,
+        "penguin_to_produce": 86,
+        "hippo_to_produce": 126,
+        "camel_to_produce": 116,
+        "elephant_to_produce": 96,
+        "kangaroo_to_produce": 136
+    },
+    {
+        "plant_id": "SA005",
+        "ocelot_to_produce": 108,
+        "penguin_to_produce": 88,
+        "hippo_to_produce": 128,
+        "camel_to_produce": 118,
+        "elephant_to_produce": 98,
+        "kangaroo_to_produce": 138
+    },
+    {
+        "plant_id": "SA006",
+        "ocelot_to_produce": 110,
+        "penguin_to_produce": 90,
+        "hippo_to_produce": 130,
+        "camel_to_produce": 120,
+        "elephant_to_produce": 100,
+        "kangaroo_to_produce": 140
+    },
+    {
+        "plant_id": "SA007",
+        "ocelot_to_produce": 112,
+        "penguin_to_produce": 92,
+        "hippo_to_produce": 132,
+        "camel_to_produce": 122,
+        "elephant_to_produce": 102,
+        "kangaroo_to_produce": 142
+    },
+    {
+        "plant_id": "SA008",
+        "ocelot_to_produce": 114,
+        "penguin_to_produce": 94,
+        "hippo_to_produce": 134,
+        "camel_to_produce": 124,
+        "elephant_to_produce": 104,
+        "kangaroo_to_produce": 144
+    },
+    {
+        "plant_id": "SA009",
+        "ocelot_to_produce": 116,
+        "penguin_to_produce": 96,
+        "hippo_to_produce": 136,
+        "camel_to_produce": 126,
+        "elephant_to_produce": 106,
+        "kangaroo_to_produce": 146
+    },
+    {
+        "plant_id": "SA010",
+        "ocelot_to_produce": 118,
+        "penguin_to_produce": 98,
+        "hippo_to_produce": 138,
+        "camel_to_produce": 128,
+        "elephant_to_produce": 108,
+        "kangaroo_to_produce": 148
+    },
+    {
+        "plant_id": "SA011",
+        "ocelot_to_produce": 120,
+        "penguin_to_produce": 100,
+        "hippo_to_produce": 140,
+        "camel_to_produce": 130,
+        "elephant_to_produce": 110,
+        "kangaroo_to_produce": 150
+    },
+    {
+        "plant_id": "SA012",
+        "ocelot_to_produce": 122,
+        "penguin_to_produce": 102,
+        "hippo_to_produce": 142,
+        "camel_to_produce": 132,
+        "elephant_to_produce": 112,
+        "kangaroo_to_produce": 152
+    },
+    {
+        "plant_id": "SA013",
+        "ocelot_to_produce": 122,
+        "penguin_to_produce": 102,
+        "hippo_to_produce": 142,
+        "camel_to_produce": 132,
+        "elephant_to_produce": 112,
+        "kangaroo_to_produce": 152
+    },
+    {
+        "plant_id": "SA014",
+        "ocelot_to_produce": 122,
+        "penguin_to_produce": 102,
+        "hippo_to_produce": 142,
+        "camel_to_produce": 162,
+        "elephant_to_produce": 112,
+        "kangaroo_to_produce": 152
+    },
+    {
+        "plant_id": "SA015",
+        "ocelot_to_produce": 128,
+        "penguin_to_produce": 108,
+        "hippo_to_produce": 148,
+        "camel_to_produce": 138,
+        "elephant_to_produce": 118,
+        "kangaroo_to_produce": 158
+    },
+    {
+        "plant_id": "SA016",
+        "ocelot_to_produce": 130,
+        "penguin_to_produce": 110,
+        "hippo_to_produce": 150,
+        "camel_to_produce": 140,
+        "elephant_to_produce": 120,
+        "kangaroo_to_produce": 160
+    },
+    {
+        "plant_id": "SA017",
+        "ocelot_to_produce": 132,
+        "penguin_to_produce": 112,
+        "hippo_to_produce": 152,
+        "camel_to_produce": 142,
+        "elephant_to_produce": 122,
+        "kangaroo_to_produce": 162
+    },
+    {
+        "plant_id": "SA018",
+        "ocelot_to_produce": 122,
+        "penguin_to_produce": 102,
+        "hippo_to_produce": 142,
+        "camel_to_produce": 162,
+        "elephant_to_produce": 112,
+        "kangaroo_to_produce": 152
+    },
+    {
+        "plant_id": "SA019",
+        "ocelot_to_produce": 128,
+        "penguin_to_produce": 108,
+        "hippo_to_produce": 148,
+        "camel_to_produce": 138,
+        "elephant_to_produce": 118,
+        "kangaroo_to_produce": 158
+    },
+    {
+        "plant_id": "SA020",
+        "ocelot_to_produce": 130,
+        "penguin_to_produce": 110,
+        "hippo_to_produce": 150,
+        "camel_to_produce": 140,
+        "elephant_to_produce": 120,
+        "kangaroo_to_produce": 160
+    }
+]
